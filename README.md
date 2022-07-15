@@ -38,6 +38,6 @@ Estar dividido em 3 camadas principais:
   - A implementação dessa interface
 
 ## 🛠 Como executar o programa
-- Clonar o repositório em uma pasta local: ```git clone```  ```https://github.com/sathyagimenes/Projeto854_TaxCalculator.git```
+- Clonar o repositório em uma pasta local: ```git clone```  ```https://github.com/sathyagimenes/TaxCalculator_Project.git```
 - Abra a solução do projeto com o visual studio: arquivo ```TaxCalculator.sln```
 - Execute o projeto com ```CTRL + F5```
