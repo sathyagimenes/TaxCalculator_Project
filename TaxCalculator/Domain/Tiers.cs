@@ -1,4 +1,4 @@
-﻿namespace MyTaxCalculator.Services
+﻿namespace MyTaxCalculator.Domain
 {
     public class Tiers : ITiers
     {
